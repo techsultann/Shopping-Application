@@ -17,3 +17,5 @@ Run the app module (Shift + F10).
 License
 Compose Shopping App is released under the MIT license. See LICENSE for details.
 Happy coding! 😊🛒
+
+Download the APK file here https://drive.google.com/file/d/1APmuA0Mcm4GqMOu8fhlsBAX6NmUc5QVE/view?usp=sharing
